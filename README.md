@@ -1,6 +1,7 @@
 # Myprojects
-Description
 
+Project 1: Attribution Modeling and Budget optimization.
+Description
 Business Objective
 
 Marketing is a technique of getting potential clients or customers interested in one’s products and services. Producers can reach out to their customers via various marketing channels. It looks simple by definition but is indeed a much more challenging task. Advertisers use various online marketing channels to reach consumers, and they typically want to know how much each channel contributes to their marketing success. This is what is known as multi-channel attribution. In many cases, advertisers approach this problem using simple models that help them understand the importance of each marketing channel. A few attribution models are as follows: i. Single Touch attribution models like First Touch Conversion, Last Touch Conversion ii. Multi-Touch attribution models like Linear Touch Conversion iii. Probabilistic models like Markov chains, etc We will try building all these models in our project to understand how these models will help us find which channels will lead us to more conversions. In this project, we aim to improve the advertising ROI by quantifying the actual value of the multi-faceted advertising campaigns. This will enable business stakeholders to make decisions based on the millions of converting click paths by isolating the impact of every touchpoint.
